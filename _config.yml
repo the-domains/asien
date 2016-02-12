@@ -1,0 +1,28 @@
+name: Asien
+favicon: null
+layout_spectrum: 0.8610893380828202
+typography_spectrum: 0.7122226427309215
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6222305281553417
+  lightness: 0.07764705107547343
+  saturation: 0.8292609269265085
+  rhythmicContrast: 0.9827358354814351
+purpose: []
